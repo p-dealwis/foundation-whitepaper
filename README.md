@@ -8,7 +8,7 @@ description: >-
 
 A custodian wallet helper agent eliminating the risks of a honey pot created by a centralised key storage. Foundation achieves this by spreading out the risk to three sites of interest
 
-![Foundation Systems](.gitbook/assets/foundation-explained-1-.png)
+![Foundation Systems](.gitbook/assets/foundation-explained.png)
 
 ## Foundation Principles
 

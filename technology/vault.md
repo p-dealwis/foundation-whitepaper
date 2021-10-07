@@ -17,13 +17,13 @@ We also understand new standards are hard to adopt so it is up to the vault prov
 
 ## User Authentication
 
-An authentication binding between the user and the vault is required before any user wallet data is stored on the vault \(as long as it is not a custodian wallet\). 
+An authentication binding between the user and the vault is required before any user wallet data is stored on the vault \(as long as it is not a custodian wallet\).
 
 The vault should only be accessed by service users to prevent random access attacks on the vault. Vault user creation therefore is facilitated by the service and a user will have a account in the vault for every service they use. This will involve setting up a authentication binding for each service.
 
 ### Foundation Authentication
 
-![](../.gitbook/assets/foundation-authentication-1-.png)
+![](../.gitbook/assets/foundation-authentication.png)
 
 The PKCE flow or traditional authorisation code flow should be considered for authorisation. However, instead of submitting the authorisation code to the `tokens` endpoint it should be used to retrieve the wallet instead.
 

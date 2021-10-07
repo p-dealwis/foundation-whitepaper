@@ -4,7 +4,7 @@ Foundation can be used for wallet recovery by holding encrypted wallet data in t
 
 ![Wallet Recovery](../.gitbook/assets/wallet-recovery.png)
 
-Wallet recovery will encompass using the [Wallet Retrieval](../technology/wallet-retrieval.md) process followed by sending the user the wallet so they can use it on their device. This process should be limited \(maybe once per week\)  to ensure user's are not abusing the recovery feature and instead are in fact keeping their information safe and respecting the privacy and security requirements of a digital wallet.
+Wallet recovery will encompass using the [Wallet Retrieval](../technology/wallet-retrieval.md) process followed by sending the user the wallet so they can use it on their device. This process should be limited \(maybe once per week\) to ensure user's are not abusing the recovery feature and instead are in fact keeping their information safe and respecting the privacy and security requirements of a digital wallet.
 
 ## Risk mitigation
 
