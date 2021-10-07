@@ -23,7 +23,7 @@ The vault should only be accessed by service users to prevent random access atta
 
 ### Foundation Authentication
 
-![](../.gitbook/assets/foundation-authentication-1-.png)
+![](../.gitbook/assets/foundation-authentication.png)
 
 The PKCE flow or traditional authorisation code flow should be considered for authorisation. However, instead of submitting the authorisation code to the `tokens` endpoint it should be used to retrieve the wallet instead.
 

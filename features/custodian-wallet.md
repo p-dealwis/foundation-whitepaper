@@ -8,7 +8,7 @@ There are use cases where the service is ready to accept more risk. For these in
 
 The service should still pull the user's wallet from the vault when it is required and destroy it afterwards. The service must hold its encryption keys securely while employing [regular key rotations](../general-information/faq.md#why-are-regular-key-rotations-of-a-services-keys-necessary).
 
-![Simple wallet recovery](../.gitbook/assets/simple-wallet-recovery-1-.png)
+![Simple wallet recovery](../.gitbook/assets/simple-wallet-recovery.png)
 
 ## Risk mitigation
 
