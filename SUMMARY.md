@@ -5,6 +5,7 @@
 ## Technology
 
 * [Vault](technology/vault.md)
+* [Foundation Agent](technology/foundation-agent.md)
 * [Consented Wallet Retrieval](technology/wallet-retrieval.md)
 
 ## Features
@@ -17,4 +18,3 @@
 
 * [Glossary](general-information/glossary.md)
 * [FAQ](general-information/faq.md)
-
