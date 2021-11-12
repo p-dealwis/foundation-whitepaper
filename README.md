@@ -6,7 +6,7 @@ description: >-
 
 # Foundation
 
-A wallet storage infrastructure system to eliminate the risks of a honey pot created by a centralised key storage. Foundation achieves this by spreading out the risk to three sites of interest
+Wallet storage infrastructure and system designed to eliminate the risks of a honey pot created by a centralised key storage. Foundation achieves this by spreading out the risk to three sites of interest
 
 ![Foundation Systems](.gitbook/assets/foundation-explained.png)
 
