@@ -6,7 +6,7 @@ description: >-
 
 # Foundation
 
-A custodian wallet helper agent eliminating the risks of a honey pot created by a centralised key storage. Foundation achieves this by spreading out the risk to three sites of interest
+A wallet storage infrastructure system to eliminate the risks of a honey pot created by a centralised key storage. Foundation achieves this by spreading out the risk to three sites of interest
 
 ![Foundation Systems](.gitbook/assets/foundation-explained.png)
 
@@ -14,7 +14,7 @@ A custodian wallet helper agent eliminating the risks of a honey pot created by 
 
 1. user binding authentication through a simple interface with the vault,
 2. service key pairs for obfuscating data,
-3. a dedicated storage device \(vault\) for storing encrypted data only.
+3. a dedicated storage device (vault) for storing encrypted data only.
 
 ## How Foundation works
 
@@ -28,5 +28,4 @@ Using machine learning algorithms designed to capture patterns in the audit data
 
 ## The Vision
 
-The purpose of foundation is to enable a better customer experience for users without compromising on security. This is only possible if the service layer parties \(the vault and the service\) stick to the industry best practises when creating their respective platforms. Foundation is used to greatly decrease the risk of a custodian wallet.
-
+The purpose of foundation is to enable a better customer experience for users without compromising on security. This is only possible if the service layer parties (the vault and the service) stick to the industry best practises when creating their respective platforms. Foundation is used to greatly decrease the risk of a custodian wallet.
